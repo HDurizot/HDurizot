@@ -33,9 +33,9 @@ Here are the main technologies I work with or I'm currently learning:
 ---
 
 ## 🌍 Connect with Me
-- 🌐 Portfolio [Click this]([https://www.linkedin.com/in/helena-durizot-75248a251/](https://hdurizot.github.io/index.html))  
+- 🌐 Portfolio [Click this](https://hdurizot.github.io/index.html)  
 - 💼 LinkedIn [Click this](https://www.linkedin.com/in/helena-durizot-75248a251/)   
-- 📧 **helena.durizot@protonmail.com**
+- 📧 Email **helena.durizot@protonmail.com**
 
 ---
 
