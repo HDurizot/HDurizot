@@ -33,7 +33,7 @@ Here are the main technologies I work with or I'm currently learning:
 ---
 
 ## 🌍 Connect with Me
-- 💼 LinkedIn [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/helena-durizot-75248a251/))   
+- 💼 [LinkedIn](https://www.linkedin.com/in/helena-durizot-75248a251/)   
 - 📧 **helena.durizot@protonmail.com**
 
 ---
