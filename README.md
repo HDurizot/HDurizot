@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- I'm from Guadeloupe, born and raise 🇬🇵
+- I'm from Guadeloupe, born and raised 🇬🇵
 - 💻 Interested in **web development, open-source, and creative projects**
 - 🎓 Studying at **Université des Antilles - License MIAGE**
 - 🎯 Goal: become a **skilled full-stack developer** and contribute to impactful projects
