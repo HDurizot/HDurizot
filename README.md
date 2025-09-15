@@ -26,9 +26,9 @@ Here are the main technologies I work with or I'm currently learning:
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![HDurizot's Stats](https://github-readme-stats.vercel.app/api?username=HDurizot&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![HDurizot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HDurizot&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
