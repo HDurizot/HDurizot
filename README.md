@@ -17,11 +17,10 @@
 ## 🛠️ Tech Stack
 Here are the main technologies I work with or I'm currently learning:
 
-- **Languages:** JavaScript, Python, PHP, SQL
-- **Frontend:** HTML, CSS, React,
-- **Backend:** Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, VS Code, Eclipse
+- **🌐 Frontend:** HTML, CSS, React, JavaScript
+- **⚙️ Backend:** Node.js, PHP, SQL, Python
+- **🗄️ Databases:** MySQL, MongoDB
+- **🧰 Tools:** Git, VS Code, Eclipse
 
 ---
 
